@@ -1,4 +1,4 @@
-package school.lesson1;
+package lesson_6;
 
 public class HomeWorkApp {
     public static void main(String[] args) {
@@ -34,7 +34,6 @@ public class HomeWorkApp {
             System.out.println("Green");
         }
     }
-
     public static void compareNumbers() {
         int a = 7;
         int b = 5;
